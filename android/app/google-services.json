@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508947667065",
+    "firebase_url": "https://dr-grahy.firebaseio.com",
+    "project_id": "dr-grahy",
+    "storage_bucket": "dr-grahy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508947667065:android:bdc8c20a3afe0dd9ffdca8",
+        "android_client_info": {
+          "package_name": "loqman.dr_grahy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508947667065-repct57o64eb6qf8fof16g9jpho0knvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSbSh1xkhvVz7C2gAdtn1DwMaJ-wHWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508947667065-repct57o64eb6qf8fof16g9jpho0knvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
